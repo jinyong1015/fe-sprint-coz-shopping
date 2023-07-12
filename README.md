@@ -1,3 +1,6 @@
 # fe-sprint-coz-shopping
 
-# check 해보기 
+# git push check
+# git branch feat/todo 생성하기
+# react 설치
+# 7/12
