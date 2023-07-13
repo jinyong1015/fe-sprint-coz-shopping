@@ -1,8 +1,8 @@
-import button_전체 from "../img/All.png";
-import button_상품 from "../img/Product.png";
-import button_카테고리 from "../img/Category.png";
-import button_기획전 from "../img/Plan.png";
-import button_브랜드 from "../img/Brand.png"
+import button_All from "../img/All.png";
+import button_Product from "../img/Product.png";
+import button_Category from "../img/Category.png";
+import button_Plan from "../img/Plan.png";
+import button_Brand from "../img/Brand.png"
 import { useState } from "react";
 import "../App.css";
 
