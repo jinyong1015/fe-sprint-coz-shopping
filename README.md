@@ -3,4 +3,4 @@
 # git push check
 # git branch feat/todo 생성하기
 # react 설치
-# 7/12
+# 7/12일~
