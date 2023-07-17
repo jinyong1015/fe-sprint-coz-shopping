@@ -71,7 +71,7 @@ function Main({bookmarks, setBookmarks}) {
       .get('http://cozshopping.codestates-seb.link/api/v1/products?count=4')
       .then(response => {
         console.log(response.data); // 받은 데이터 확인
-        setProducts(response.data); // 받은 데이터로 products 상태 업데이트
+        setProducts(response.data); // products 상태 업데이트
       })
       .catch(error => {
         console.log("에러:", error);
