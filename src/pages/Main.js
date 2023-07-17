@@ -72,6 +72,7 @@ function Main({bookmarks, setBookmarks}) {
       .then(response => {
         console.log(response.data); // 받은 데이터 확인
         setProducts(response.data); // products 상태 업데이트
+
       })
       .catch(error => {
         console.log("에러:", error);
