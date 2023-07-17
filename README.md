@@ -1,15 +1,19 @@
-# fe-sprint-coz-shopping
+#COZ Shopping Mall(Solo Project)
+---
+주어진 Figma 기획 문서를 바탕으로 클라이언트 앱을 제작하는 프로젝트입니다.
 
-# git push check
-# git branch feat/todo 생성하기
-# react 설치
-# img, components, pages 생성
-# img 파일 추가
-# APP.js 수정
-# main page 추가
-# footer, header 추가
-# main page 요구 사항 완료
-# Productes list page 추가
-# Productes list page 요구 사항 완료
-# Bookmark page 추가
-# Bookmark page 요구 사항 완료
+#팀원
+---
+정진용(솔로)
+
+#기술 스텍
+---
+-React.js	
+-Styled Components	
+-React-Redux	
+-Axios	
+-Figma
+
+프로젝트 실행 방법
+---
+-프로젝트 clone 후, cd client -> npm run start 로 실행
